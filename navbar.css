@@ -34,12 +34,19 @@ li {
   padding: 15px 30px;
 }
 
+/* We removed underlines that comes  with a elemt */
 a {
   text-align: center;
   color: #ffffff;
   text-decoration: none;
   font-family: 'Open Sans', sans-serif;
   font-size: 1.2vw;
+}
+
+/* when you hover on any anchor tag, we apply some effect */
+a:hover {
+  color: #F0c330;
+  transition: 0.5s;
 }
 
 img {
