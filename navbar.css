@@ -22,3 +22,22 @@ h1 {
 span {
   color: #ffffff;
 }
+
+ul {
+  width: auto;
+  float: right;
+  margin-top: 8px;
+}
+
+li {
+  display: inline-block;
+  padding: 15px 30px;
+}
+
+a {
+  text-align: center;
+  color: #ffffff;
+  text-decoration: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2vw;
+}
